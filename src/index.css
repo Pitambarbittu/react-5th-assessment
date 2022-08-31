@@ -1,0 +1,37 @@
+*{
+  background-color: #FAFDD6;
+}
+.upper {
+  text-align:center;
+  background-color: #FAFDD6;
+}
+ul {
+  list-style-type:none;
+  font-size:22px;
+  color: brown;
+}
+p{
+  font-size:22px;
+  color: brown;
+}
+span {
+  text-decoration: underline;
+
+}
+.lower {
+  text-align:center;
+  background-color: #FAFDD6;
+  margin-top:50px;
+}
+button{
+  color: black;
+  background-color: rgb(131, 73, 197);
+  width: 100px;
+  height: 40px;
+  border-radius: 5px;
+}
+
+.hovered{
+  color: rgb(226, 65, 65);
+}
+
